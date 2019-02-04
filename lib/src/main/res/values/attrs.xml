@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PolygonProgressView">
+        <attr name="ppv_stroke_color" format="color" />
+        <attr name="ppv_fill_color" format="color" />
+        <attr name="ppv_num_sides" format="integer" />
+        <attr name="ppv_max" format="float" />
+        <attr name="ppv_progress_value" format="float" />
+        <attr name="ppv_stroke_width" format="integer" />
+    </declare-styleable>
+</resources>
