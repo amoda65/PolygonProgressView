@@ -2,7 +2,7 @@
 Polygon progress for android
 
 
-build.gradle(project)
+## build.gradle(project)
 ```
 allprojects {
 		repositories {
@@ -11,7 +11,7 @@ allprojects {
 	}	
 ```
 
-build.gradle(app)
+## build.gradle(app)
 ```
   dependencies {
 	        implementation 'com.github.amoda65:PolygonProgressView:1.0'
